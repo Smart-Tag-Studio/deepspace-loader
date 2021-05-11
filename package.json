@@ -1,0 +1,21 @@
+{
+  "name": "deepspace-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smart-Tag-Studio/deepspace-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smart-Tag-Studio/deepspace-loader/issues"
+  },
+  "homepage": "https://github.com/Smart-Tag-Studio/deepspace-loader#readme"
+}
